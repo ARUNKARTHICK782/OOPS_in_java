@@ -1,0 +1,11 @@
+Static methods in interface:
+    * The static methods in interface cannot be overridden.
+    * This improves code reusability
+    * If most of the implementing classes use a method with same logic then we can define the method inside the interface itself
+    * The implementing class do not want to use this method compulsorily
+
+Default methods in interface:
+    * If we want to implement new method in the interface without affecting the already implementing classes we can use default
+      methods.
+    * The implementing class can override the method if they are not satisfied with the default implementation
+

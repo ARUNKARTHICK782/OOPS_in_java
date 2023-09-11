@@ -1,0 +1,3 @@
+* We cannot create objects for abstract classes
+* Abstract classes can have constructor, it will be invoked when we create object with parent reference and
+  child object

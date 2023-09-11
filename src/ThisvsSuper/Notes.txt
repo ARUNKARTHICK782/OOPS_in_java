@@ -1,0 +1,18 @@
+super() :
+    * It is used to call the parent class members
+    * In a method overriding scenario when we want to call the parent class method we'll use super to achieve this
+    * The java compiler puts its own super() when we don't provide any.
+    * It must be the first statement.
+
+this() :
+    * It is used to call another constructor from one constructor.
+
+this :
+    * It is used to call current class members
+    * When parameter name is same as field name we'll use this keyword to differentiate the fields.
+    * It must be the first statement.
+
+Note :
+    * A constructor cannot have both the super() and this() at the same time
+    * this -> It is a keyword
+    * this() -> It is a method call

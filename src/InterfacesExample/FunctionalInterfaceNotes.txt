@@ -1,0 +1,10 @@
+Lambda Expressions:
+    Syntax:
+        (parameter1,parameter2,....) -> {expression}
+    The expression have to return something
+    * It does not have a parameter data type and return type
+
+
+Functional Interface:
+    * A functional interface is an interface which have only one abstract method, but it can contain many default and
+      static methods

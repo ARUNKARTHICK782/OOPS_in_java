@@ -1,0 +1,104 @@
+College:
+    - Name
+    - Address
+    - Type
+    ----------
+    - enrollStudent(){}
+    - dismissStudent(){}
+    ----------
+    - calculateFees()
+    - designCourse()
+
+
+Employee
+    - name
+    - age
+    - other details
+
+    abstract methods
+    - doWork()
+    -
+
+DeliveryExecutive
+    - name
+    - age
+    - vehicleNo
+    - calculateSalary()
+
+
+
+SocialMediaAccount
+   - name
+   - phoneNo
+   - dob
+   - followers
+   - other user details
+
+   ---Concrete methods---
+
+   react(postId,reaction)
+   follow(fromUserId,toUserId)
+   share(postId)
+
+   ---Abstract methods---
+
+   post()
+   homeFeedRecommendations()
+
+
+
+Employee
+    - name
+    - other details
+    - basePay
+    - calculateSalary(int workingHours)
+
+    Abstract methods
+    - work()
+
+
+
+ChessPiece
+    - int x
+
+
+
+
+Vehicle
+    -noOfTires
+    -noOfSeats
+    -accelerate()
+    -brake()
+    -turnOn()
+    -turnOff()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
